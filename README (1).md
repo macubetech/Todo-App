@@ -21,7 +21,7 @@ Install my-project with npm
     
 ## Screenshots
 
-![App Screenshot](https://Capture.JPG)
+![App Screenshot](https://todo-app-react-jsx.netlify.app)
 
 
 # Project Title
